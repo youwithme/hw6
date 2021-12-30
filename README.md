@@ -23,17 +23,19 @@
 Закономерно то, что слова «Ethiopia» и «Ethiopian» являются наиболее частотным, так как корпус текстов посвящен именно этой стране. Если редактировать список стоп-слов и добавить их туда, то наиболее частотными словами становятся: country (340); government (229); addis (200); ababa (194); population (170).
 
 Наиболее частотные слова сутя по **Scale** в каждой статье (без учета слов «Ethiopia» «Ethiopian»):
-•	Eng – «government», «oromo», «country»
-•	It - «country», «region», «government»
-•	Ar - «government», «country», «addis», «abeba»
-•	Jp - «english», «eritrea», «version»
-•	No - «country», «addis», «ababa»
-•	Amh - «country», «world», «emperor»
-•	Es - «music», «population», «eritrea»
-•	Hu - «country», «population»
-•	Ru - «main», «emperor», «country»
-•	Ch - «country», «years», «ababa», «people»
-•	He - «axum», «empire», «kingdom»
+- Eng – «government», «oromo», «country»
+- It - «country», «region», «government»
+- Ar - «government», «country», «addis», «abeba»
+- Jp - «english», «eritrea», «version»
+- No - «country», «addis», «ababa»
+- Amh - «country», «world», «emperor»
+- Es - «music», «population», «eritrea»
+- Hu - «country», «population»
+- Ru - «main», «emperor», «country»
+- Ch - «country», «years», «ababa», «people»
+- He - «axum», «empire», «kingdom»
 
+![image](https://user-images.githubusercontent.com/90916828/147771938-b1b555af-d43a-4faf-9ac6-a75f46f6e47b.png)
 
+Если мы посмотрим на **Collocates**, то заметим необычность таких словосочетаний, как "ethiopia ethiopia" "ethopia ethiopian" и тд. Скорее всего это связано с тем, что текст был переведен с языка оригинала на английский язык при помощи Google Translater, который не всегда точно передает смысл фразы. Также можно заметить, что Addis Ababa употребляется 208 раз, что странно, так как слова по отдельности употребляются 200 и 194 раза, как уже было описано выше. 
 
